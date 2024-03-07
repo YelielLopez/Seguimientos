@@ -73,5 +73,3 @@ alert("Ingrese un tipo valido");
 
  }
 }
-
- 
